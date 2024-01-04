@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.center{
+    @apply min-w-[100%] min-h-[100%] flex justify-center items-center
+}

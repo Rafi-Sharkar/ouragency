@@ -1,0 +1,23 @@
+.linkicons{
+    position: relative;
+    z-index: 120;
+    padding: 3px;
+    font-size: 30px;
+    border: 2px solid #39A7FF;
+    transition: 0.4s linear;
+}
+.linkicons:hover{
+   color: #39A7FF;
+}
+ .linktitle{ 
+    font-size: 20px;
+    min-width: auto;
+    position: absolute;
+    z-index: 100;
+    right: -200px;
+    transition: 0.4s linear;
+    color:#39A7FF;
+ } 
+ .haha:hover .linktitle{
+    right: 50px;
+ }
