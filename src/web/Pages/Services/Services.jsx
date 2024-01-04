@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function Services() {
   return (
-    <div>Services</div>
+    <div>
+      <h1>Services</h1>
+      <h2>Get start</h2>
+    </div>
   )
 }
